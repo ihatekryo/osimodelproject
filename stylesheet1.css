@@ -1,0 +1,225 @@
+
+
+.osiheader{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:300;
+    font-size: 100px;
+
+}
+
+
+.osidiagram{
+    margin-top: 22px;
+    margin-left: 600px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.application{
+    margin:6px;
+    color: white;
+    float: right;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:200px;
+    font-size: 25px;
+    background-color: #3383a8;
+    border-radius: 20px;
+    padding: 25px 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-width: 0px;
+    transition: background-color 0.2s ease-in-out, width 0.5s ease-in-out;
+}
+.application:hover{
+    background-color: #64bbe2;
+
+
+}
+
+.presentation{
+    margin: 6px;
+    color: white;
+    float: right;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:200px;
+    font-size: 25px;
+    background-color: #f2931e;
+    border-radius: 20px;
+    padding: 25px 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-width: 0px;
+    transition: background-color 0.2s ease-in-out, width 0.5s ease-in-out;
+}
+.presentation:hover{
+    background-color: #f8c382;
+    
+
+
+}
+
+.session{
+    margin: 6px;
+    color: white;
+    float: right;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:200px;
+    font-size: 25px;
+    background-color: #ae4132;
+    border-radius: 20px;
+    padding: 25px 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-width: 0px;
+    transition: background-color 0.2s ease-in-out, width 0.5s ease-in-out;
+}
+.session:hover{
+    background-color: #f08e81;
+    
+
+
+
+
+}
+
+.transport{
+    margin: 6px;
+    color: white;
+    float: right;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:200px;
+    font-size: 25px;
+    background-color: #23445d;
+    border-radius: 20px;
+    padding: 25px 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-width: 0px;
+    transition: background-color 0.2s ease-in-out, width 0.5s ease-in-out;
+}
+.transport:hover{
+    background-color: #5d7f99;
+    
+
+
+
+
+}
+
+.network{
+    margin: 6px;
+    color: white;
+    float: right;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:200px;
+    font-size: 25px;
+    background-color: #d80073;
+    border-radius: 20px;
+    padding: 25px 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-width: 0px;
+    transition: background-color 0.2s ease-in-out, width 0.5s ease-in-out;
+}
+.network:hover{
+    background-color: #c0789f;
+    
+
+
+
+
+}
+
+.datalink{
+    margin: 6px;
+    color: white;
+    float: right;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:200px;
+    font-size: 25px;
+    background-color: #008a00;
+    border-radius: 20px;
+    padding: 25px 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-width: 0px;
+    transition: background-color 0.2s ease-in-out, width 0.5s ease-in-out;
+}
+.datalink:hover{
+    background-color: #90c290;
+    
+
+
+
+
+}
+
+.physical{
+    margin: 6px;
+    color: white;
+    float: right;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:200px;
+    font-size: 25px;
+    background-color: #a0522d;
+    border-radius: 20px;
+    padding: 25px 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-width: 0px;
+    transition: background-color 0.2s ease-in-out, width 0.5s ease-in-out;
+}
+.physical:hover{
+    background-color: #bb7d61;
+    
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.container{
+    display:flex;
+    align-items: flex-start;
+
+}
+
+.imgdiv{
+    display: block;
+    width: 1350px;
+
+    
+}
+
+.components{
+    float: right;
+    margin-top: 16px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    max-width: 550px;
+}
+
+
+
+

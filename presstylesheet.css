@@ -1,0 +1,309 @@
+.back{
+    color: rgb(0, 0, 0);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:bold;
+    font-size: 50px;
+    margin-left: 50px;
+
+}
+
+.back:hover{
+    color:rgb(185, 28, 28);
+
+}
+
+
+
+.appheader{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:300;
+    font-size: 100px;
+
+}
+
+
+.container{
+    display: block;
+
+}
+
+
+/*-------------------------------------------------------------------------------*/
+
+
+.ssl{
+    margin: 5px;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+
+
+
+.ssldesc{
+    display: block;
+    margin: 5px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:500;
+    font-size: 50px;
+    width: 1100px;
+
+}
+
+
+.components{
+  margin-top: 50px;
+    float: left;
+    display:flex;
+    align-items: flex-start;
+}
+
+
+
+.sslcontain{
+display: block;
+
+
+}
+
+
+
+/*-------------------------------------------------------------------------------*/
+
+
+.components2{
+  margin-top: 50px;
+    float: right;
+    display:flex;
+    align-items: flex-start;
+
+}
+
+.sshcontain{
+    float: right;
+    display: block;
+
+}
+
+
+.ssh{
+    
+    margin: 5px;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.sshdesc{
+    float: right;
+    display: block;
+    margin: 5px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:500;
+    font-size: 50px;
+    width: 1100px;
+
+}
+
+/*-------------------------------------------------------------------------------*/
+
+.briancontain{
+
+    display:inline-block;
+    margin-top: 75px;
+    width: 100%;
+    
+}
+
+.brian{
+
+    display: inline-block;
+    margin-left: 32%;
+    width: 800px;
+
+}
+
+/*-------------------------------------------------------------------------------*/
+
+.imap{
+    margin: 5px;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+
+
+
+.imapdesc{
+    display: block;
+    margin: 5px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:500;
+    font-size: 50px;
+    width: 1100px;
+
+}
+
+
+.components3{
+  margin-top: 50px;
+    float: left;
+    display:flex;
+    align-items: flex-start;
+}
+
+
+
+.imapcontain{
+display: block;
+}
+
+
+/*-------------------------------------------------------------------------------*/
+
+.components4{
+  margin-top: 50px;
+    float: right;
+    display:flex;
+    align-items: flex-start;
+
+}
+
+.ftpcontain{
+    float: right;
+    display: block;
+
+}
+
+
+.ftp{
+    
+    margin: 5px;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.ftpdesc{
+    float: right;
+    display: block;
+    margin: 5px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:500;
+    font-size: 50px;
+    width: 1100px;
+
+}
+
+/*-------------------------------------------------------------------------------*/
+
+.mpeg{
+    margin: 5px;
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+
+
+
+.mpegdesc{
+    display: block;
+    margin: 5px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:500;
+    font-size: 50px;
+    width: 1100px;
+
+}
+
+
+.components5{
+  margin-top: 50px;
+    float: left;
+    display:flex;
+    align-items: flex-start;
+
+}
+
+
+
+.mpegcontain{
+display: block;
+margin-top: 100px;
+
+}
+
+.mpegdiagram{
+    width:1000px;
+    height: auto;
+    
+    margin-left: 90px;
+}
+
+/*-------------------------------------------------------------------------------*/
+
+.components6{
+    float: right;
+    display:flex;
+    align-items: flex-start;
+
+}
+
+.jpegcontain{
+    float: right;
+    display: block;
+
+}
+
+
+.jpeg{
+    
+    margin: 5px;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.jpegdesc{
+    float: right;
+    display: block;
+    margin: 5px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:500;
+    font-size: 50px;
+    width: 1100px;
+
+}
+
+.jpegdiagram{
+    width:1000px;
+    height: auto;
+
+    margin-left: 90px;
+    margin-bottom: 50px;
+}

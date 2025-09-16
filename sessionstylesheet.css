@@ -1,0 +1,178 @@
+.back{
+    color: rgb(0, 0, 0);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:bold;
+    font-size: 50px;
+    margin-left: 50px;
+
+}
+
+.back:hover{
+    color:rgb(185, 28, 28);
+
+}
+
+
+
+.appheader{
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:300;
+    font-size: 100px;
+
+}
+
+
+.container{
+    display: block;
+
+}
+
+
+/*-------------------------------------------------------------------------------*/
+
+
+.api{
+    margin: 5px;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+
+
+
+.apidesc{
+    display: block;
+    margin: 5px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:500;
+    font-size: 50px;
+    width: 1100px;
+
+}
+
+
+.components{
+  margin-top: 50px;
+    float: left;
+    display:flex;
+    align-items: flex-start;
+}
+
+
+
+.apicontain{
+display: block;
+
+
+}
+
+
+
+/*-------------------------------------------------------------------------------*/
+
+
+.components2{
+  margin-top: 50px;
+    float: right;
+    display:flex;
+    align-items: flex-start;
+
+}
+
+.sockcontain{
+    float: right;
+    display: block;
+
+}
+
+
+.sock{
+    
+    margin: 5px;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.sockdesc{
+    float: right;
+    display: block;
+    margin: 5px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:500;
+    font-size: 50px;
+    width: 1100px;
+
+}
+
+/*-------------------------------------------------------------------------------*/
+
+.briancontain{
+
+    display:inline-block;
+    margin-top: 75px;
+    width: 100%;
+    
+}
+
+.brian{
+
+    display: inline-block;
+    margin-left: 32%;
+    width: 800px;
+
+}
+
+/*-------------------------------------------------------------------------------*/
+
+
+.winsock{
+    margin: 5px;
+    margin-top: 100px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+
+
+
+.winsockdesc{
+    display: block;
+    margin: 5px;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:500;
+    font-size: 50px;
+    width: 1100px;
+
+}
+
+
+.components3{
+    display: inline-block;
+    margin-left: 25%;
+    width: 800px;
+
+}
+
+
+
+.winsockcontain{
+display: block;
+
+
+}
+
+
