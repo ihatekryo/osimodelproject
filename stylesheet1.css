@@ -212,13 +212,14 @@
 }
 
 .components{
-    margin-left: 15%;
+    margin-right: 15%;
     margin-top: 16px;
     display: flex;
     text-align: center;
     flex-direction: column;
     max-width: 550px;
 }
+
 
 
 
