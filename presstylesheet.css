@@ -28,6 +28,16 @@
 
 }
 
+.appsubheader{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 41px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+
+
+}
 
 /*-------------------------------------------------------------------------------*/
 
@@ -307,3 +317,4 @@ margin-top: 100px;
     margin-left: 90px;
     margin-bottom: 50px;
 }
+
